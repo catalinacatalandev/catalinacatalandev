@@ -1,16 +1,23 @@
-## Hi there 👋
+Hola! 👋 Bienvenid@ a mi perfil de GitHub.
 
-<!--
-**catalinacatalandev/catalinacatalandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+🩷 Soy una desarrolladora, apasionada por la tecnología, la innovación y el desarrollo de soluciones con propósito. Tengo un enfoque actual en el desarrollo front-end, con la proyección clara de crecer hacia el full stack. Aquí podrás ver algunos de mis proyectos.
 
-Here are some ideas to get you started:
+---
+## 📫 Contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: https://www.linkedin.com/in/catalina-andrea-catal%C3%A1n-l%C3%B3pez/
+- Email: catalinacatalan.dev@gmail.com 
+
+---
+
+✨ Gracias por visitar mi perfil. ¡Siéntete libre de explorar mis proyectos y conectar conmigo!
+
+
+
+
+
+
+
+  
+
